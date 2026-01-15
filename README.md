@@ -12,3 +12,9 @@ This board utilizes Near Field Communication (NFC) to wirelessly transmit contac
     * **Front:** Clean aesthetic with LED indicators and antenna design.
     * **Back:** Silkscreen/Soldermask QR code for scanning.
 * **Compact Form Factor:** Standard credit card dimensions (85.6mm x 54mm).
+
+### Business Card Front
+![Finished Product](./Images/Business%20Card%20Front.png)
+
+### Layout View
+![PCB Layout](./Images/LAYOUT.png)
